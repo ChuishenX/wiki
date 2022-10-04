@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
+title: 玄云海维基
+subtitle: Itz a wiki bruh.
+description: r u serious?
+keywords: Wiki, OblivionOcean, 玄云海, 吹神求杀
+author: 吹神求杀
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://wiki.oblivionocean.top/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
